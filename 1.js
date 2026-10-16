@@ -1,1 +1,1 @@
-<script>alert("Greetings from R")/>
+<script>alert("Greetings from R")</script>
